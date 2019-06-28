@@ -1,0 +1,6 @@
+C:\TestApplication\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\TestApplication\GuessNumber\bin\Debug\GuessNumber.exe
+C:\TestApplication\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\TestApplication\GuessNumber\obj\Debug\GuessNumber.csprojResolveAssemblyReference.cache
+C:\TestApplication\GuessNumber\obj\Debug\GuessNumber.exe
+C:\TestApplication\GuessNumber\obj\Debug\GuessNumber.pdb

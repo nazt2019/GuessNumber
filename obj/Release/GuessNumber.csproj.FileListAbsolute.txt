@@ -1,0 +1,5 @@
+C:\TestApplication\GuessNumber\bin\Release\GuessNumber.exe.config
+C:\TestApplication\GuessNumber\bin\Release\GuessNumber.exe
+C:\TestApplication\GuessNumber\bin\Release\GuessNumber.pdb
+C:\TestApplication\GuessNumber\obj\Release\GuessNumber.exe
+C:\TestApplication\GuessNumber\obj\Release\GuessNumber.pdb
