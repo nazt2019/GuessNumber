@@ -45,7 +45,7 @@ namespace GuessNumber
                 Console.WriteLine("You Lose");
                 Console.WriteLine("The correct answer is " + targetNo);
             }
-            Console.WriteLine("Press any key to exit.....");
+            Console.WriteLine("Press the Enter key to exit.....");
             string exit = Console.ReadLine().ToString();
 
         }
